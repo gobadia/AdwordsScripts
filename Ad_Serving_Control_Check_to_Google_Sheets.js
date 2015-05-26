@@ -1,5 +1,5 @@
 /**************************************************************************************
-* AdWords - Optimization -- Ad Serving Control Check 
+* AdWords - Optimization -- Ad Serving Control Check to Google Sheets
 * This script tests search queries to determine if multiple ad groups are showing, which  
 * indicates that ad serving control has been lost. 
 * Version 1.1
